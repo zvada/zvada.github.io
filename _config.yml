@@ -71,10 +71,10 @@ roles:
 
 #Education is required
 education:
- - level: MBA
-   date: 2018.12
-   subject: Business Analytics
-   school: University of Nebraska-Lincoln, USA
+# - level: MBA
+#   date: 2018.12
+#   subject: Business Analytics
+#   school: University of Nebraska-Lincoln, USA
  - level: Master of Science
    date: 2003.05
    subject: Cybernetics and Artificial Intelligence
