@@ -80,8 +80,8 @@ education:
    school: University of Kosice, Slovakia
 
 #List of interesting Github repo/projects to include - optional
-#github:
-#- opensciencegrid/xcache
+github:
+- opensciencegrid/xcache
 
 #Stackoverflow flair is optional
 #stackoverflow:
