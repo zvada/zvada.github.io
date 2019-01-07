@@ -66,8 +66,8 @@ education:
    school: University of Birmingham
 
 #List of interesting Github repo/projects to include - optional
-#github:
-#- robhinds/robhinds.github.io
+github:
+ - opensciencegrid/xcache
 
 #Stackoverflow flair is optional
 #stackoverflow:
@@ -81,18 +81,18 @@ intro: |
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-  1 Bloom, K., et al: \emph {Any Data, Any Time, Anywhere: Global Data Access for Science.} \url{http://arxiv.org/abs/1508.01443} \\[3pt]
-  2 Bockelman, B., et al: \emph {Commissioning the HTCondor-CE for the Open Science Grid.} Journal of Physics: Conference Series, Volume 644, Track 6 (2015). \url{http://stacks.iop.org/1742-6596/664/i=6/a=062003} \\[3pt]
-  3 Fischer, M., Quast, G., Zvada, M.: \emph {Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.} Journal of Physics: Conference Series, Volume 513, Track 3 (2014). \url{http://stacks.iop.org/1742-6596/513/i=3/a=032033} \\[3pt]
-  4 CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: \emph {Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.} Published in Phys.Lett. B716 (2012) 30-61 \\[3pt]
-  5 Sfiligoi, I., et al 2012 J. Phys.: \emph {The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.} \url{http://dx.doi.org/10.1088/1742-6596/396/3/032103} \\[3pt]
-  6 Jung, Ch., Petzold, A., Zvada, M.: \emph {Experiment Representation at the WLCG Tier-1 Center GridKa.} PoS EGICF12-EMITC2: \url{http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf} \\[3pt]
-  7 Grandi, C., et al 2011 J. Phys.: \emph {CMS Distributed Computing Integration in the LHC sustained operations era.} \url{http://dx.doi.org/10.1088/1742-6596/331/6/062032} \\[3pt]    
-  8 Mauch, V., et al 2011 J. Phys.: \emph {The HappyFace Project.} \url{http://dx.doi.org/10.1088/1742-6596/331/8/082011} \\[3pt]
-  9 Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: \emph {Using OpenCL towards GPU performance evaluation.} In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 \\[3pt]    
-  10 Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: \emph {Evaluation framework for GPU performance based on OpenCl standard.} In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 \\[3pt]    
-  11 Zvada, M., Benjamin, D., Sfiligoi, I.: \emph {CDF GlideinWMS usage in grid computing of High Energy Physics,} presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 \\[3pt]    
-  12 Zvada, M., Kosteln\'ik, P.: \emph {Goal-oriented navigation of mobile robot in unknown environment using cognitive map,} In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 \\[3pt]    
+  1 Bloom, K., et al: \emph {Any Data, Any Time, Anywhere: Global Data Access for Science.} \url{http://arxiv.org/abs/1508.01443} <br>
+  2 Bockelman, B., et al: \emph {Commissioning the HTCondor-CE for the Open Science Grid.} Journal of Physics: Conference Series, Volume 644, Track 6 (2015). \url{http://stacks.iop.org/1742-6596/664/i=6/a=062003} <br>
+  3 Fischer, M., Quast, G., Zvada, M.: \emph {Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.} Journal of Physics: Conference Series, Volume 513, Track 3 (2014). \url{http://stacks.iop.org/1742-6596/513/i=3/a=032033} <br>
+  4 CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: \emph {Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.} Published in Phys.Lett. B716 (2012) 30-61 <br>
+  5 Sfiligoi, I., et al 2012 J. Phys.: \emph {The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.} \url{http://dx.doi.org/10.1088/1742-6596/396/3/032103} <br>
+  6 Jung, Ch., Petzold, A., Zvada, M.: \emph {Experiment Representation at the WLCG Tier-1 Center GridKa.} PoS EGICF12-EMITC2: \url{http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf} <br>
+  7 Grandi, C., et al 2011 J. Phys.: \emph {CMS Distributed Computing Integration in the LHC sustained operations era.} \url{http://dx.doi.org/10.1088/1742-6596/331/6/062032} <br>
+  8 Mauch, V., et al 2011 J. Phys.: \emph {The HappyFace Project.} \url{http://dx.doi.org/10.1088/1742-6596/331/8/082011} <br>
+  9 Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: \emph {Using OpenCL towards GPU performance evaluation.} In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 <br>
+  10 Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: \emph {Evaluation framework for GPU performance based on OpenCl standard.} In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 <br> 
+  11 Zvada, M., Benjamin, D., Sfiligoi, I.: \emph {CDF GlideinWMS usage in grid computing of High Energy Physics,} presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 <br>
+  12 Zvada, M., Kosteln\'ik, P.: \emph {Goal-oriented navigation of mobile robot in unknown environment using cognitive map,} In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 <br> 
   13 Zvada, M., Vacek, M., Kosteln\'ik, P.: \emph {Spatial navigation of mobile robot in unknown environment using cognitive map,} III. Slovak-Czech seminar: Cognition, artificial life and computer intelligence (CALCI2003), Star\'a Lesn\'a, pp. 387-393, 2003
     
 #   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
