@@ -37,33 +37,48 @@ skills:
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Systems Integrator
+   start: 2013.11
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: University of Nebraska-Lincoln
+   description: XYZ.
+ - title: CEO Senior Engineer
+   start: 2013.09
+   end: ongoing
+   employer: PENZION EMILIA
+   description: <a href="https://www.penzion-emilia.sk" taget="_blank">www.penzion-emilia.sk</a>.
+ - title: Scientist
+   start: 2010.01
+   end: 2013.12
+   employer: KIT - Karlsruhe Institute of Technology
+   description: XYZ.
+ - title: Guest Scientist
+   start: 2009.09
+   end: 2007.06
+   employer: Fermi National Accelerator Laboratory
+   description: XYZ.
+ - title: Team Leader
+   start: 2006.10
+   end: 2007.05
+   employer: T-Systems Slovakia, a.s.
+   description: XYZ.
+- title: Professional Services
+   start: 2005.01
+   end: 2006.09
+   employer: Siemens Program and System Engineering (Healthcare information systems)
+   description: XYZ.
+
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Master of Business Administration (MBA)
+   date: 2018.12
+   subject: Business Analytics
+   school: University of Nebraska-Lincoln
+ - level: Master of Science (MSc)
+   date: 2003.05
+   subject: Cybernetics and Artificial Intelligence
+   school: University of Kosice, Slovakia
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -81,19 +96,19 @@ intro: |
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-  1 Bloom, K., et al: \emph {Any Data, Any Time, Anywhere: Global Data Access for Science.} \url{http://arxiv.org/abs/1508.01443} <br>
-  2 Bockelman, B., et al: \emph {Commissioning the HTCondor-CE for the Open Science Grid.} Journal of Physics: Conference Series, Volume 644, Track 6 (2015). \url{http://stacks.iop.org/1742-6596/664/i=6/a=062003} <br>
-  3 Fischer, M., Quast, G., Zvada, M.: \emph {Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.} Journal of Physics: Conference Series, Volume 513, Track 3 (2014). \url{http://stacks.iop.org/1742-6596/513/i=3/a=032033} <br>
-  4 CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: \emph {Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.} Published in Phys.Lett. B716 (2012) 30-61 <br>
-  5 Sfiligoi, I., et al 2012 J. Phys.: \emph {The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.} \url{http://dx.doi.org/10.1088/1742-6596/396/3/032103} <br>
-  6 Jung, Ch., Petzold, A., Zvada, M.: \emph {Experiment Representation at the WLCG Tier-1 Center GridKa.} PoS EGICF12-EMITC2: \url{http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf} <br>
-  7 Grandi, C., et al 2011 J. Phys.: \emph {CMS Distributed Computing Integration in the LHC sustained operations era.} \url{http://dx.doi.org/10.1088/1742-6596/331/6/062032} <br>
-  8 Mauch, V., et al 2011 J. Phys.: \emph {The HappyFace Project.} \url{http://dx.doi.org/10.1088/1742-6596/331/8/082011} <br>
-  9 Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: \emph {Using OpenCL towards GPU performance evaluation.} In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 <br>
-  10 Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: \emph {Evaluation framework for GPU performance based on OpenCl standard.} In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 <br> 
-  11 Zvada, M., Benjamin, D., Sfiligoi, I.: \emph {CDF GlideinWMS usage in grid computing of High Energy Physics,} presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 <br>
-  12 Zvada, M., Kosteln\'ik, P.: \emph {Goal-oriented navigation of mobile robot in unknown environment using cognitive map,} In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 <br> 
-  13 Zvada, M., Vacek, M., Kosteln\'ik, P.: \emph {Spatial navigation of mobile robot in unknown environment using cognitive map,} III. Slovak-Czech seminar: Cognition, artificial life and computer intelligence (CALCI2003), Star\'a Lesn\'a, pp. 387-393, 2003
+   [1] Bloom, K., et al: <emphasis>Any Data, Any Time, Anywhere: Global Data Access for Science.</emphasis> <a target='_blank' href="http://arxiv.org/abs/1508.01443">http://arxiv.org/abs/1508.01443</a><br>
+   [2] Bockelman, B., et al: <emphasis>Commissioning the HTCondor-CE for the Open Science Grid.</emphasis> Journal of Physics: Conference Series, Volume 644, Track 6 (2015). <a target='_blank' href="http://stacks.iop.org/1742-6596/664/i=6/a=062003">http://stacks.iop.org/1742-6596/664/i=6/a=062003</a><br>
+   [3] Fischer, M., Quast, G., Zvada, M.: <emphasis>Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.</emphasis> Journal of Physics: Conference Series, Volume 513, Track 3 (2014). <a target='_blank' href"http://stacks.iop.org/1742-6596/513/i=3/a=032033">http://stacks.iop.org/1742-6596/513/i=3/a=032033</a><br>
+   [4] CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: <emphasis>Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.</emphasis> Published in Phys.Lett. B716 (2012) 30-61 <br>
+   [5] Sfiligoi, I., et al 2012 J. Phys.: <emphasis>The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.</emphasis> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/396/3/032103">http://dx.doi.org/10.1088/1742-6596/396/3/032103</a> <br>
+   [6] Jung, Ch., Petzold, A., Zvada, M.: <emphasis>Experiment Representation at the WLCG Tier-1 Center GridKa.</emphasis> PoS EGICF12-EMITC2: <a target='_blank' href"http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf">http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf</a> <br>
+   [7] Grandi, C., et al 2011 J. Phys.: <emphasis>CMS Distributed Computing Integration in the LHC sustained operations era.</emphasis> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/331/6/062032">http://dx.doi.org/10.1088/1742-6596/331/6/062032</a><br>
+   [8] Mauch, V., et al 2011 J. Phys.: <emphasis>The HappyFace Project.} \url{http://dx.doi.org/10.1088/1742-6596/331/8/082011} <br>
+   [9] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <emphasis>Using OpenCL towards GPU performance evaluation.</emphasis> In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 <br>
+   [10] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <emphasis>Evaluation framework for GPU performance based on OpenCl standard.</emphasis> In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 <br> 
+   [11] Zvada, M., Benjamin, D., Sfiligoi, I.: <emphasis>CDF GlideinWMS usage in grid computing of High Energy Physics,</emphasis> presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 <br>
+   [12] Zvada, M., Kosteln\'ik, P.: <emphasis>Goal-oriented navigation of mobile robot in unknown environment using cognitive map,</emphasis> In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 <br> 
+   [13] Zvada, M., Vacek, M., Kostelnik, P.: <emphasis>Spatial navigation of mobile robot in unknown environment using cognitive map,</emphasis> III. Slovak-Czech seminar: Cognition, artificial life and computer intelligence (CALCI2003), Stara Lesna, pp. 387-393, 2003
     
 #   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
 #   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
