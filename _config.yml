@@ -41,12 +41,12 @@ roles:
    start: 2013.11
    end: Ongoing
    employer: University of Nebraska-Lincoln
-   description: Dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation). Production transition and operation of <a href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a>. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
+   description: Dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a target='_blank' href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a target='_blank' href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation). Production transition and operation of <a href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a>. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
  - title: FOUNDER & CEO
    start: 2013.09
-   end: ongoing
+   end: Ongoing
    employer: PENZION EMILIA
-   description: Privately held accommodation and hospitality services: <a href="https://www.penzion-emilia.sk" taget="_blank">www.penzion-emilia.sk</a>
+   description: Privately held accommodation and hospitality services: <a target='_blank' href="https://www.penzion-emilia.sk">www.penzion-emilia.sk</a>
  - title: Computer Scientist
    start: 2010.01
    end: 2013.12
@@ -102,7 +102,7 @@ additionalinfo: |
    [5] Sfiligoi, I., et al 2012 J. Phys.: <em>The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.</em> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/396/3/032103">http://dx.doi.org/10.1088/1742-6596/396/3/032103</a> <br>
    [6] Jung, Ch., Petzold, A., Zvada, M.: <em>Experiment Representation at the WLCG Tier-1 Center GridKa.</em> PoS EGICF12-EMITC2: <a target='_blank' href"http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf">http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf</a> <br>
    [7] Grandi, C., et al 2011 J. Phys.: <em>CMS Distributed Computing Integration in the LHC sustained operations era.</em> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/331/6/062032">http://dx.doi.org/10.1088/1742-6596/331/6/062032</a><br>
-   [8] Mauch, V., et al 2011 J. Phys.: <em>The HappyFace Project.} \url{http://dx.doi.org/10.1088/1742-6596/331/8/082011} <br>
+   [8] Mauch, V., et al 2011 J. Phys.: <em>The HappyFace Project.</em>} <a target='_blank' href="http://dx.doi.org/10.1088/1742-6596/331/8/082011">http://dx.doi.org/10.1088/1742-6596/331/8/082011</a> <br>
    [9] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Using OpenCL towards GPU performance evaluation.</em> In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 <br>
    [10] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Evaluation framework for GPU performance based on OpenCl standard.</em> In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 <br> 
    [11] Zvada, M., Benjamin, D., Sfiligoi, I.: <em>CDF GlideinWMS usage in grid computing of High Energy Physics,</em> presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 <br>
