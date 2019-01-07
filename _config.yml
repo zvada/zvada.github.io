@@ -46,7 +46,7 @@ roles:
    start: 2013.09
    end: Ongoing
    employer: PENZION EMILIA
-   description: Privately held accommodation and hospitality services: <a target='_blank' href="https://www.penzion-emilia.sk">www.penzion-emilia.sk</a>
+   description: Privately held accommodation and hospitality services <a target='_blank' href="https://www.penzion-emilia.sk">www.penzion-emilia.sk</a>
  - title: Computer Scientist
    start: 2010.01
    end: 2013.12
@@ -106,7 +106,7 @@ additionalinfo: |
    [9] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Using OpenCL towards GPU performance evaluation.</em> In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 <br>
    [10] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Evaluation framework for GPU performance based on OpenCl standard.</em> In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 <br> 
    [11] Zvada, M., Benjamin, D., Sfiligoi, I.: <em>CDF GlideinWMS usage in grid computing of High Energy Physics,</em> presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 <br>
-   [12] Zvada, M., Kosteln\'ik, P.: <em>Goal-oriented navigation of mobile robot in unknown environment using cognitive map,</em> In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 <br> 
+   [12] Zvada, M., Kostelnik, P.: <em>Goal-oriented navigation of mobile robot in unknown environment using cognitive map,</em> In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 <br> 
    [13] Zvada, M., Vacek, M., Kostelnik, P.: <em>Spatial navigation of mobile robot in unknown environment using cognitive map,</em> III. Slovak-Czech seminar: Cognition, artificial life and computer intelligence (CALCI2003), Stara Lesna, pp. 387-393, 2003
     
 #   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
