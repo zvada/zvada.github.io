@@ -62,7 +62,7 @@ roles:
    end: 2007.05
    employer: T-Systems Slovakia, a.s.
    description: XYZ.
-- title: Professional Services
+ - title: Professional Services
    start: 2005.01
    end: 2006.09
    employer: Siemens Program and System Engineering (Healthcare information systems)
