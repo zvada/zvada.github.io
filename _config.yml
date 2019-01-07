@@ -41,7 +41,7 @@ roles:
    start: 2013.11
    end: Ongoing
    employer: University of Nebraska-Lincoln
-   description: Dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a target='_blank' href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a target='_blank' href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation). Production transition and operation of <a href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a>. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
+   description: Dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a target='_blank' href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a target='_blank' href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation). Production transition and operation of <a target='_blank' href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a>. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
  - title: FOUNDER & CEO
    start: 2013.09
    end: Ongoing
