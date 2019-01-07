@@ -66,7 +66,9 @@ roles:
    start: 2005.01
    end: 2006.09
    employer: Siemens Program and System Engineering (Healthcare information systems)
-   description: Providing solutions based on the existing medical applications,installation, customization, upgrading, administration. Leading various sub-projects, on-site troubleshooting technical problems and escalate bug reports of products to the development teams. Work cross-functionally with Engineering, Product Management, Sales Management and Marketing across medical software solutions.
+   description: XYZ 
+
+#Providing solutions based on the existing medical applications, installation, customization, upgrading, administration. Leading various sub-projects, on-site troubleshooting technical problems and escalate bug reports of products to the development teams. Work cross-functionally with Engineering, Product Management, Sales Management and Marketing across medical software solutions.
 
 
 #Education is required
@@ -98,7 +100,7 @@ intro: |
 additionalinfo: |
   <ol>
     <li>Bloom, K., et al: <em>Any Data, Any Time, Anywhere: Global Data Access for Science.</em> <a target='_blank' href="http://arxiv.org/abs/1508.01443">http://arxiv.org/abs/1508.01443</a></li>
-    <li>Bockelman, B., et al: <em>Commissioning the HTCondor-CE for the Open Science Grid.</em> Journal of Physics: Conference Series, Volume 644, Track 6 (2015). <a target='_blank' href="http://stacks.iop.org/1742-6596/664/i=6/a=062003">http://stacks.iop.org/1742-6596/664/i=6/a=062003</a><li>
+    <li>Bockelman, B., et al: <em>Commissioning the HTCondor-CE for the Open Science Grid.</em> Journal of Physics: Conference Series, Volume 644, Track 6 (2015). <a target='_blank' href="http://stacks.iop.org/1742-6596/664/i=6/a=062003">http://stacks.iop.org/1742-6596/664/i=6/a=062003</a></li>
     <li>Fischer, M., Quast, G., Zvada, M.: <em>Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.</em> Journal of Physics: Conference Series, Volume 513, Track 3 (2014). <a target='_blank' href"http://stacks.iop.org/1742-6596/513/i=3/a=032033">http://stacks.iop.org/1742-6596/513/i=3/a=032033</a></li>
     <li>CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: <em>Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.</em> Published in Phys.Lett. B716 (2012) 30-61 </li>
     <li>Sfiligoi, I., et al 2012 J. Phys.: <em>The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.</em> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/396/3/032103">http://dx.doi.org/10.1088/1742-6596/396/3/032103</a> </li>
