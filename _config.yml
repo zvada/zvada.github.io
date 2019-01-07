@@ -41,41 +41,40 @@ roles:
    start: 2013.11
    end: Ongoing
    employer: University of Nebraska-Lincoln
-   description: XYZ.
- - title: CEO Senior Engineer
+   description: dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation. production transition and operation of <a href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a> - a collection of components for implementing resource usage accounting. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
+ - title: FOUNDER & CEO
    start: 2013.09
    end: ongoing
    employer: PENZION EMILIA
-   description: <a href="https://www.penzion-emilia.sk" taget="_blank">www.penzion-emilia.sk</a>.
- - title: Scientist
+   description: Privately held accommodation and hospitality services: <a href="https://www.penzion-emilia.sk" taget="_blank">www.penzion-emilia.sk</a>
+ - title: Computer Scientist
    start: 2010.01
    end: 2013.12
    employer: KIT - Karlsruhe Institute of Technology
-   description: XYZ.
+   description: Single point of contact at biggest Tier-1 computing centre in Europe for World-wide Large Hadron Collider Computing Grid, CMS experiment at CERN, Geneva, Switzerland. Work with technical staff to understand problems within Grid middleware and developing specifications to resolve them. Architectural design and deployment of the glideinWMS project as a main WMS (Workload Management System) for CMS data reconstruction and processing.
  - title: Guest Scientist
-   start: 2009.09
-   end: 2007.06
+   start: 2007.06
+   end: 2009.09
    employer: Fermi National Accelerator Laboratory
-   description: XYZ.
+   description: Develop, integrate and troubleshoot the scientific HTCondor batch system environment for the CDF (Collider Detector at Fermilab) computing facilities (Linux-based). Assist in diagnosing and alleviating bottlenecks in the CDF grid production clusters, escalation of critical system issues, participation on improving operation procedures. Investigate and troubleshoot problems encountered by leading scientists in the field of high-energy physics in their work and interact/consult with them to develop methods to eliminate difficulties.
  - title: Team Leader
    start: 2006.10
    end: 2007.05
    employer: T-Systems Slovakia, a.s.
-   description: XYZ.
+   description: Establishing cooperation for near-shoring transition process. Communication with German partners, preparation of concepts for transition of work-packages (products) from Germany to Slovakia. Execution of product transfers, creation of personnel capability portfolio. Collaboration in recruitment activities, employee and management development, managing of training process for requested technologies.
  - title: Professional Services
    start: 2005.01
    end: 2006.09
    employer: Siemens Program and System Engineering (Healthcare information systems)
-   description: XYZ.
-
+   description: Providing solutions based on the existing medical applications - installation, customization, upgrading, administration. Leading various sub-projects, on-site troubleshooting technical problems and escalate bug reports of products to the development teams. Work cross-functionally with Engineering, Product Management, Sales Management and Marketing across medical software solutions.
 
 #Education is required
 education:
- - level: Master of Business Administration (MBA)
+ - level: MBA
    date: 2018.12
    subject: Business Analytics
    school: University of Nebraska-Lincoln
- - level: Master of Science (MSc)
+ - level: Master of Science
    date: 2003.05
    subject: Cybernetics and Artificial Intelligence
    school: University of Kosice, Slovakia
@@ -96,19 +95,19 @@ intro: |
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   [1] Bloom, K., et al: <emphasis>Any Data, Any Time, Anywhere: Global Data Access for Science.</emphasis> <a target='_blank' href="http://arxiv.org/abs/1508.01443">http://arxiv.org/abs/1508.01443</a><br>
-   [2] Bockelman, B., et al: <emphasis>Commissioning the HTCondor-CE for the Open Science Grid.</emphasis> Journal of Physics: Conference Series, Volume 644, Track 6 (2015). <a target='_blank' href="http://stacks.iop.org/1742-6596/664/i=6/a=062003">http://stacks.iop.org/1742-6596/664/i=6/a=062003</a><br>
-   [3] Fischer, M., Quast, G., Zvada, M.: <emphasis>Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.</emphasis> Journal of Physics: Conference Series, Volume 513, Track 3 (2014). <a target='_blank' href"http://stacks.iop.org/1742-6596/513/i=3/a=032033">http://stacks.iop.org/1742-6596/513/i=3/a=032033</a><br>
-   [4] CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: <emphasis>Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.</emphasis> Published in Phys.Lett. B716 (2012) 30-61 <br>
-   [5] Sfiligoi, I., et al 2012 J. Phys.: <emphasis>The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.</emphasis> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/396/3/032103">http://dx.doi.org/10.1088/1742-6596/396/3/032103</a> <br>
-   [6] Jung, Ch., Petzold, A., Zvada, M.: <emphasis>Experiment Representation at the WLCG Tier-1 Center GridKa.</emphasis> PoS EGICF12-EMITC2: <a target='_blank' href"http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf">http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf</a> <br>
-   [7] Grandi, C., et al 2011 J. Phys.: <emphasis>CMS Distributed Computing Integration in the LHC sustained operations era.</emphasis> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/331/6/062032">http://dx.doi.org/10.1088/1742-6596/331/6/062032</a><br>
-   [8] Mauch, V., et al 2011 J. Phys.: <emphasis>The HappyFace Project.} \url{http://dx.doi.org/10.1088/1742-6596/331/8/082011} <br>
-   [9] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <emphasis>Using OpenCL towards GPU performance evaluation.</emphasis> In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 <br>
-   [10] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <emphasis>Evaluation framework for GPU performance based on OpenCl standard.</emphasis> In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 <br> 
-   [11] Zvada, M., Benjamin, D., Sfiligoi, I.: <emphasis>CDF GlideinWMS usage in grid computing of High Energy Physics,</emphasis> presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 <br>
-   [12] Zvada, M., Kosteln\'ik, P.: <emphasis>Goal-oriented navigation of mobile robot in unknown environment using cognitive map,</emphasis> In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 <br> 
-   [13] Zvada, M., Vacek, M., Kostelnik, P.: <emphasis>Spatial navigation of mobile robot in unknown environment using cognitive map,</emphasis> III. Slovak-Czech seminar: Cognition, artificial life and computer intelligence (CALCI2003), Stara Lesna, pp. 387-393, 2003
+   [1] Bloom, K., et al: <em>Any Data, Any Time, Anywhere: Global Data Access for Science.</em> <a target='_blank' href="http://arxiv.org/abs/1508.01443">http://arxiv.org/abs/1508.01443</a><br>
+   [2] Bockelman, B., et al: <em>Commissioning the HTCondor-CE for the Open Science Grid.</em> Journal of Physics: Conference Series, Volume 644, Track 6 (2015). <a target='_blank' href="http://stacks.iop.org/1742-6596/664/i=6/a=062003">http://stacks.iop.org/1742-6596/664/i=6/a=062003</a><br>
+   [3] Fischer, M., Quast, G., Zvada, M.: <em>Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.</em> Journal of Physics: Conference Series, Volume 513, Track 3 (2014). <a target='_blank' href"http://stacks.iop.org/1742-6596/513/i=3/a=032033">http://stacks.iop.org/1742-6596/513/i=3/a=032033</a><br>
+   [4] CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: <em>Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.</em> Published in Phys.Lett. B716 (2012) 30-61 <br>
+   [5] Sfiligoi, I., et al 2012 J. Phys.: <em>The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.</em> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/396/3/032103">http://dx.doi.org/10.1088/1742-6596/396/3/032103</a> <br>
+   [6] Jung, Ch., Petzold, A., Zvada, M.: <em>Experiment Representation at the WLCG Tier-1 Center GridKa.</em> PoS EGICF12-EMITC2: <a target='_blank' href"http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf">http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf</a> <br>
+   [7] Grandi, C., et al 2011 J. Phys.: <em>CMS Distributed Computing Integration in the LHC sustained operations era.</em> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/331/6/062032">http://dx.doi.org/10.1088/1742-6596/331/6/062032</a><br>
+   [8] Mauch, V., et al 2011 J. Phys.: <em>The HappyFace Project.} \url{http://dx.doi.org/10.1088/1742-6596/331/8/082011} <br>
+   [9] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Using OpenCL towards GPU performance evaluation.</em> In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 <br>
+   [10] Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Evaluation framework for GPU performance based on OpenCl standard.</em> In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 <br> 
+   [11] Zvada, M., Benjamin, D., Sfiligoi, I.: <em>CDF GlideinWMS usage in grid computing of High Energy Physics,</em> presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 <br>
+   [12] Zvada, M., Kosteln\'ik, P.: <em>Goal-oriented navigation of mobile robot in unknown environment using cognitive map,</em> In proceedings: Cognition and artificial life III, Eds. J. Kelemen, FPF, SU, Opava, ISBN 80-7248-186-9, pp. 207-221, 2003 <br> 
+   [13] Zvada, M., Vacek, M., Kostelnik, P.: <em>Spatial navigation of mobile robot in unknown environment using cognitive map,</em> III. Slovak-Czech seminar: Cognition, artificial life and computer intelligence (CALCI2003), Stara Lesna, pp. 387-393, 2003
     
 #   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
 #   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
