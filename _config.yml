@@ -16,21 +16,30 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
+ - C
+ - C++
+ - Linux
+ - SQL, MySQL, PostgreSQL, Oracle
+ - JavaScript
+ - Eclipse
+ - PHP
+ - LaTeX
+ - Apache
+ - Git, SVN, CVS
+ - Koji
+ - CSS
+ - HTML
+ - XML
  - REST
+ - Python
+ - R
+ - Perl
+ - Bash scripting
+ - Elasticsearch (ELK)
+ - Virtualization
  - Technical Architecture
- - Machine learning
+ - Project Management
+ - Open Source
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -41,12 +50,12 @@ roles:
    start: 2013.11
    end: Ongoing
    employer: University of Nebraska-Lincoln (UNL)
-   description: Dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a target='_blank' href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a target='_blank' href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation). Production transition and operation of <a target='_blank' href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a>. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
+   description: Dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a target="_blank" href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a target="_blank" href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation). Production transition and operation of <a target="_blank" href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a>. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
  - title: FOUNDER & CEO
    start: 2013.09
    end: Ongoing
    employer: PENZION EMILIA
-   description: Privately held accommodation and hospitality services <a target='_blank' href="https://www.penzion-emilia.sk">www.penzion-emilia.sk</a>
+   description: Privately held accommodation and hospitality services <a target="_blank" href="https://www.penzion-emilia.sk">www.penzion-emilia.sk</a>
  - title: Computer Scientist
    start: 2010.01
    end: 2013.12
@@ -92,21 +101,21 @@ github:
 #   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I'm passionate crawler in the "Big Data" lakes working as systems integrator supporting research in high energy physics for the <a href="https://cms.cern" target="_blank">CMS</a> experiment in the Large Hadron Collider (LHC) at <a href="https://home.cern" target="_blank">CERN</a>. I am fortunate to have experiences, both academically and professionally, which have exposed me to different continents, cultures, peoples, and languages. Since 2014, I’ve been living in Lincoln, Nebraska with my family.<br/><br/>
-  I strive for excellence in all I do. In my downtime I enjoy hiking, biking and camping in the summer, skiing and ice-skating in the winter, and I'm always ready to play chess ;).<br><br>
+  I'm passionate crawler in the "Big Data" lakes working as systems integrator supporting research in high energy physics for the <a href="https://cms.cern" target="_blank">CMS</a> experiment in the Large Hadron Collider (LHC) at <a href="https://home.cern" target="_blank">CERN</a>. I am fortunate to have experiences, both academically and professionally, which have exposed me to different continents, cultures, peoples, and languages. Since 2014, I've been living in Lincoln, Nebraska with my family.<br/><br/>
+  I strive for excellence in all I do. In my downtime I enjoy hiking, biking and camping in the summer, skiing and ice-skating in the winter, and I"m always ready to play chess ;).<br><br>
   As I always say: "Live smart, consume with heart!".
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
   <ol>
-    <li>Bloom, K., et al: <em>Any Data, Any Time, Anywhere: Global Data Access for Science.</em> <a target='_blank' href="http://arxiv.org/abs/1508.01443">http://arxiv.org/abs/1508.01443</a></li>
-    <li>Bockelman, B., et al: <em>Commissioning the HTCondor-CE for the Open Science Grid.</em> Journal of Physics: Conference Series, Volume 644, Track 6 (2015). <a target='_blank' href="http://stacks.iop.org/1742-6596/664/i=6/a=062003">http://stacks.iop.org/1742-6596/664/i=6/a=062003</a></li>
-    <li>Fischer, M., Quast, G., Zvada, M.: <em>Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.</em> Journal of Physics: Conference Series, Volume 513, Track 3 (2014). <a target='_blank' href"http://stacks.iop.org/1742-6596/513/i=3/a=032033">http://stacks.iop.org/1742-6596/513/i=3/a=032033</a></li>
+    <li>Bloom, K., et al: <em>Any Data, Any Time, Anywhere: Global Data Access for Science.</em> <a target="_blank" href="http://arxiv.org/abs/1508.01443">http://arxiv.org/abs/1508.01443</a></li>
+    <li>Bockelman, B., et al: <em>Commissioning the HTCondor-CE for the Open Science Grid.</em> Journal of Physics: Conference Series, Volume 644, Track 6 (2015). <a target="_blank" href="http://stacks.iop.org/1742-6596/664/i=6/a=062003">http://stacks.iop.org/1742-6596/664/i=6/a=062003</a></li>
+    <li>Fischer, M., Quast, G., Zvada, M.: <em>Featured "Single Sign-In" interface enabling Grid, Cloud and local resources for HEP.</em> Journal of Physics: Conference Series, Volume 513, Track 3 (2014). <a target="_blank" href"http://stacks.iop.org/1742-6596/513/i=3/a=032033">http://stacks.iop.org/1742-6596/513/i=3/a=032033</a></li>
     <li>CMS Collaboration (Serguei Chatrchyan (Yerevan Phys. Inst.) et al.). Jul 2012: <em>Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC.</em> Published in Phys.Lett. B716 (2012) 30-61 </li>
-    <li>Sfiligoi, I., et al 2012 J. Phys.: <em>The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.</em> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/396/3/032103">http://dx.doi.org/10.1088/1742-6596/396/3/032103</a> </li>
-    <li>Jung, Ch., Petzold, A., Zvada, M.: <em>Experiment Representation at the WLCG Tier-1 Center GridKa.</em> PoS EGICF12-EMITC2: <a target='_blank' href"http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf">http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf</a> </li>
-    <li>Grandi, C., et al 2011 J. Phys.: <em>CMS Distributed Computing Integration in the LHC sustained operations era.</em> <a target='_blank' href"http://dx.doi.org/10.1088/1742-6596/331/6/062032">http://dx.doi.org/10.1088/1742-6596/331/6/062032</a></li>
-    <li>Mauch, V., et al 2011 J. Phys.: <em>The HappyFace Project.</em> <a target='_blank' href="http://dx.doi.org/10.1088/1742-6596/331/8/082011">http://dx.doi.org/10.1088/1742-6596/331/8/082011</a> </li>
+    <li>Sfiligoi, I., et al 2012 J. Phys.: <em>The benefits and challenges of sharing glidein factory operations across nine time zones between OSG and CMS.</em> <a target="_blank" href"http://dx.doi.org/10.1088/1742-6596/396/3/032103">http://dx.doi.org/10.1088/1742-6596/396/3/032103</a> </li>
+    <li>Jung, Ch., Petzold, A., Zvada, M.: <em>Experiment Representation at the WLCG Tier-1 Center GridKa.</em> PoS EGICF12-EMITC2: <a target="_blank" href"http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf">http://pos.sissa.it/archive/conferences/162/032/EGICF12-EMITC2_032.pdf</a> </li>
+    <li>Grandi, C., et al 2011 J. Phys.: <em>CMS Distributed Computing Integration in the LHC sustained operations era.</em> <a target="_blank" href"http://dx.doi.org/10.1088/1742-6596/331/6/062032">http://dx.doi.org/10.1088/1742-6596/331/6/062032</a></li>
+    <li>Mauch, V., et al 2011 J. Phys.: <em>The HappyFace Project.</em> <a target="_blank" href="http://dx.doi.org/10.1088/1742-6596/331/8/082011">http://dx.doi.org/10.1088/1742-6596/331/8/082011</a> </li>
     <li>Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Using OpenCL towards GPU performance evaluation.</em> In Cracow´10 Grid Workshop: proceedings. – Krakow. Academic Computer Centre CYFRONET AGH, Krakow, March 2011. ISBN 978-83-61433-03-3 </li>
     <li>Jurecko, M., Kocisova, J., Busa, J., Kasanicky, T., Domiter, M., Zvada, M.: <em>Evaluation framework for GPU performance based on OpenCl standard.</em> In Networking and Computing – the First International Conference. – Piscataway: IEEE Computer Society, 2010, p. 67-72. ISBN 978-0-7695-4277-5 </li> 
     <li>Zvada, M., Benjamin, D., Sfiligoi, I.: <em>CDF GlideinWMS usage in grid computing of High Energy Physics,</em> presented at Computing in High Energy and Nuclear Physics (CHEP 2009), Prague, Czech Republic, 21-27 March 2009, 407 2009 </li>
@@ -116,10 +125,10 @@ additionalinfo: |
     
 #   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
 #   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-#   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
+#   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target="_blank" href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
 #   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
 #   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
 #   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
 #   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-#   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-#   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+#   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target="_blank" href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target="_blank" href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target="_blank" href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
+#   I write a blog covering technical and opinion articles that can be found here: <a target="_blank" href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target="_blank" href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
