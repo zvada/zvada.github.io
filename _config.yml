@@ -16,8 +16,7 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - C
- - C++
+ - C/C++
  - Linux
  - SQL, MySQL, PostgreSQL, Oracle
  - JavaScript
@@ -51,31 +50,31 @@ roles:
    end: Ongoing
    employer: University of Nebraska-Lincoln (UNL)
    description: Dealing with newly introduced methods connecting complex existing systems into larger workflows for automated use (e.g. <a target="_blank" href="https://opensciencegrid.github.io/docs/compute-element/install-htcondor-ce/">HTCondor-CE</a>, <a target="_blank" href="http://arxiv.org/abs/1508.01443">CMS AAA</a> data federation). Production transition and operation of <a target="_blank" href="https://gracc.opensciencegrid.org">GRid ACCouting system (GRACC)</a>. Diagnosing and solving variety of systems integration and computing problems. Root cause analysis of incidents, documenting and updating operation guides. Debugging and escalation of discovered bugs to development teams.
- - title: FOUNDER & CEO
-   start: 2013.09
-   end: Ongoing
-   employer: PENZION EMILIA
-   description: Privately held accommodation and hospitality services <a target="_blank" href="https://www.penzion-emilia.sk">www.penzion-emilia.sk</a>
- - title: Computer Scientist
-   start: 2010.01
-   end: 2013.12
-   employer: Karlsruhe Institute of Technology (KIT)
-   description: Single point of contact at biggest Tier-1 computing centre in Europe for World-wide Large Hadron Collider Computing Grid, CMS experiment at CERN, Geneva, Switzerland. Work with technical staff to understand problems within Grid middleware and developing specifications to resolve them. Architectural design and deployment of the glideinWMS project as a main WMS (Workload Management System) for CMS data reconstruction and processing.
- - title: Guest Scientist
-   start: 2007.06
-   end: 2009.09
-   employer: Fermi National Accelerator Laboratory
-   description: Develop, integrate and troubleshoot the scientific HTCondor batch system environment for the CDF (Collider Detector at Fermilab) computing facilities (Linux-based). Assist in diagnosing and alleviating bottlenecks in the CDF grid production clusters, escalation of critical system issues, participation on improving operation procedures. Investigate and troubleshoot problems encountered by leading scientists in the field of high-energy physics in their work and interact/consult with them to develop methods to eliminate difficulties.
- - title: Team Leader
-   start: 2006.10
-   end: 2007.05
-   employer: T-Systems Slovakia
-   description: Establishing cooperation for near-shoring transition process. Communication with German partners, preparation of concepts for transition of work-packages (products) from Germany to Slovakia. Execution of product transfers, creation of personnel capability portfolio. Collaboration in recruitment activities, employee and management development, managing of training process for requested technologies.
- - title: Professional Services
-   start: 2005.01
-   end: 2006.09
-   employer: Siemens Program and System Engineering (Healthcare information systems)
-   description: On-site customer support of solutions based on the existing medical applications - installation, customization, upgrading, administration. Troubleshoot and escalate bug reports of applications to the development teams. Served as a customer advocate, channeling user feedback into the product. 
+# - title: FOUNDER & CEO
+#   start: 2013.09
+#   end: Ongoing
+#   employer: PENZION EMILIA
+#   description: Privately held accommodation and hospitality services <a target="_blank" href="https://www.penzion-emilia.sk">www.penzion-emilia.sk</a>
+# - title: Computer Scientist
+#   start: 2010.01
+#   end: 2013.12
+#   employer: Karlsruhe Institute of Technology (KIT)
+#   description: Single point of contact at biggest Tier-1 computing centre in Europe for World-wide Large Hadron Collider Computing Grid, CMS experiment at CERN, Geneva, Switzerland. Work with technical staff to understand problems within Grid middleware and developing specifications to resolve them. Architectural design and deployment of the glideinWMS project as a main WMS (Workload Management System) for CMS data reconstruction and processing.
+# - title: Guest Scientist
+#   start: 2007.06
+#   end: 2009.09
+#   employer: Fermi National Accelerator Laboratory
+#   description: Develop, integrate and troubleshoot the scientific HTCondor batch system environment for the CDF (Collider Detector at Fermilab) computing facilities (Linux-based). Assist in diagnosing and alleviating bottlenecks in the CDF grid production clusters, escalation of critical system issues, participation on improving operation procedures. Investigate and troubleshoot problems encountered by leading scientists in the field of high-energy physics in their work and interact/consult with them to develop methods to eliminate difficulties.
+# - title: Team Leader
+#   start: 2006.10
+#   end: 2007.05
+#   employer: T-Systems Slovakia
+#   description: Establishing cooperation for near-shoring transition process. Communication with German partners, preparation of concepts for transition of work-packages (products) from Germany to Slovakia. Execution of product transfers, creation of personnel capability portfolio. Collaboration in recruitment activities, employee and management development, managing of training process for requested technologies.
+# - title: Professional Services
+#   start: 2005.01
+#   end: 2006.09
+#   employer: Siemens Program and System Engineering (Healthcare information systems)
+#   description: On-site customer support of solutions based on the existing medical applications - installation, customization, upgrading, administration. Troubleshoot and escalate bug reports of applications to the development teams. Served as a customer advocate, channeling user feedback into the product. 
 
 #Providing solutions based on the existing medical applications, installation, customization, upgrading, administration. Leading various sub-projects, on-site troubleshooting technical problems and escalate bug reports of products to the development teams. Work cross-functionally with Engineering, Product Management, Sales Management and Marketing across medical software solutions.
 
